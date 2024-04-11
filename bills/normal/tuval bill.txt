@@ -1,0 +1,5 @@
+Bill breakdown: 
+pasta:                    ...$35
+pizza:                    ...$10
+tip:                      ...$7.50
+total:                    ...$52.50
