@@ -1,0 +1,9 @@
+Share bill breakdown: 
+total amount:             ...$500.00
+tip:                      ...$30.00
+tip percentage:           ...6.00%
+total with tip:           ...$530.00
+numbers of people:        ...4
+total per person:         ...$132.50
+tip per person:           ...$7.50
+share per person:         ...$132.50
